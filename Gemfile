@@ -18,6 +18,7 @@ group :development, :test do
   gem 'vcr'
   gem 'webmock'
   gem 'pry-rails'
+  gem 'capybara'
 end
 
 group :development do
